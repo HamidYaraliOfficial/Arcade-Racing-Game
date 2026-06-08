@@ -1,5 +1,3 @@
-# README (1)
-
 # 🏎️ Arcade Racing Game
 
 ---
